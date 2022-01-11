@@ -6,7 +6,7 @@ This is a decentralized app based on Solana blockchain where you can connect you
 
 <img src="demo.gif" width="100%" height="100%">
 
-# Installment
+# Installation 
 
 Clone the repository  ``` git clone https://github.com/rmmshv/Solana-gif-portal.git ```
 
